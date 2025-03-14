@@ -1,0 +1,16 @@
+{
+    "description": "A futuristic space cat floating in zero gravity",
+    "external_url": "https://github.com/aladinsws",
+    "image": "https://crimson-hidden-bonobo-426.mypinata.cloud/ipfs/bafybeidxhffdyliivgz7o6lwonvma7luanmi4cmk67d4gm62mqol2st5s4",
+    "name": "Space Cat",
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Collection",
+            "value": "Cat"
+        }
+    ]
+}
